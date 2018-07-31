@@ -1,0 +1,10 @@
+.header {
+    text-align: center;
+    font-size: 40px;
+}
+.centerimg {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
